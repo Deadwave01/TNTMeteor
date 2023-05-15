@@ -1,0 +1,8 @@
+name: ForBoosty
+version: '${project.version}'
+main: wave.myplugins.ForBoosty
+api-version: 1.19
+commands:
+  rain:
+    usage: rain
+    description: rain test
